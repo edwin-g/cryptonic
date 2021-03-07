@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cryptonic/static/css/main.4c7de94a.chunk.css",
+    "main.js": "/cryptonic/static/js/main.a10a79d0.chunk.js",
+    "main.js.map": "/cryptonic/static/js/main.a10a79d0.chunk.js.map",
+    "runtime-main.js": "/cryptonic/static/js/runtime-main.694d4e45.js",
+    "runtime-main.js.map": "/cryptonic/static/js/runtime-main.694d4e45.js.map",
+    "static/js/2.af6d8bdf.chunk.js": "/cryptonic/static/js/2.af6d8bdf.chunk.js",
+    "static/js/2.af6d8bdf.chunk.js.map": "/cryptonic/static/js/2.af6d8bdf.chunk.js.map",
+    "static/js/3.02d94ec9.chunk.js": "/cryptonic/static/js/3.02d94ec9.chunk.js",
+    "static/js/3.02d94ec9.chunk.js.map": "/cryptonic/static/js/3.02d94ec9.chunk.js.map",
+    "index.html": "/cryptonic/index.html",
+    "static/css/main.4c7de94a.chunk.css.map": "/cryptonic/static/css/main.4c7de94a.chunk.css.map",
+    "static/js/2.af6d8bdf.chunk.js.LICENSE.txt": "/cryptonic/static/js/2.af6d8bdf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.694d4e45.js",
+    "static/js/2.af6d8bdf.chunk.js",
+    "static/css/main.4c7de94a.chunk.css",
+    "static/js/main.a10a79d0.chunk.js"
+  ]
+}
